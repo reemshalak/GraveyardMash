@@ -1,35 +1,62 @@
-👻 Graveyard Mash! 🎃
+# 👻 Graveyard Mash! 🎃
 
-📝 Table of Contents
-About the Game
-Gameplay Highlights
-Features
-Getting Started
-Usage
+**A Spooky WebAR Runner Game Built with 8th Wall**
 
-🎲 About the Game
-Graveyard Mash is a thrilling runner game set in a spooky graveyard, created with 8th Wall’s WebAR technology. Players run through eerie scenes, collecting candy and avoiding obstacles in a Halloween-themed adventure that brings the thrill of augmented reality to the browser.
+![Graveyard Mash Banner](link_to_your_image)  
+*Run through a haunted graveyard, collect candy, and dodge creepy obstacles in this thrilling Halloween-themed game!*
 
-🕹️ Gameplay Highlights
-Collect Candy Corns 🍬: Score points by collecting candy corns scattered throughout the graveyard.
-Dodge Obstacles 🕸️: Avoid piles of bones, sticky spider webs, and zombie hands reaching up from the ground.
-Beware of Hazards 💀: Watch out for spikes and slime; stepping on slime will splat across your screen, blocking your vision for a few seconds!
-Power-Ups ⭐: Pick up shields to protect yourself and snag 2x multipliers for a big score boost!
-Get ready to run, collect, and survive the Halloween horrors!
+---
 
-Try the game here: Graveyard Mash Active Game Link
+## Table of Contents
+- [About the Game](#about-the-game)
+- [Gameplay Highlights](#gameplay-highlights)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
 
-🌟 Features
-Augmented Reality: Leveraging 8th Wall’s WebAR, this game delivers a spooky, immersive AR experience in the browser.
-Interactive Obstacles: Face various Halloween-themed challenges that block or hinder your progress.
-Power-Ups: Collect shields and multipliers to maximize your survival time and score.
-Screen Effects: Real-time visual effects, like the slime splat, enhance the spooky ambiance.
-🏁 Getting Started
-This game runs on 8th Wall’s WebAR platform, which works on most modern mobile devices with AR-enabled browsers.
+---
 
-Requirements
-Device Compatibility: A mobile device with a supported AR browser.
-Internet Connection: Stable internet connection for loading WebAR assets.
-📖 Usage
-Movement Controls: Tilt or swipe to dodge obstacles.
-Interaction: Collect candy by moving through it, and avoid obstacles by steering clear of them.
+## 👾 About the Game
+
+**Graveyard Mash** is a runner game set in a spooky graveyard, created with **8th Wall’s WebAR** technology. Immerse yourself in a haunted setting, collecting candy corns and dodging Halloween-themed obstacles!
+
+Play it here: [Graveyard Mash Active Game Link](https://lnkd.in/e-8q7ewA)
+
+---
+
+## 🕹️ Gameplay Highlights
+
+- **Collect Candy Corns** 🍬: Gather as many candy corns as you can to increase your score.
+- **Avoid Obstacles** 🕸️: Watch out for piles of bones, spider webs, and zombie hands!
+- **Hazards** 💀: Step on slime, and it splats across your screen, blocking your vision!
+- **Power-Ups** ⭐: Grab shields for protection and 2x multipliers for a score boost.
+
+---
+
+## 🌟 Features
+
+- **Augmented Reality Gameplay**: Using 8th Wall's WebAR, experience an immersive game directly in your mobile browser.
+- **Interactive Obstacles**: Face various Halloween-themed challenges that require quick reflexes.
+- **Screen Effects**: Visual effects like slime splats add to the spooky atmosphere.
+- **Power-Ups and Collectibles**: Shields and multipliers keep the gameplay engaging and rewarding.
+
+---
+
+## 🚀 Getting Started
+
+**Requirements:**
+- **Device Compatibility**: Mobile device with AR browser support.
+- **Internet Connection**: Required for loading WebAR assets.
+
+*Simply visit the game link, and it will automatically start in your AR-supported browser.*
+
+---
+
+## 🎮 Usage
+
+- **Movement Controls**: Tilt or swipe to dodge obstacles.
+- **Interaction**: Move through candy corns to collect them and avoid obstacles by steering clear.
+
+---
+
+Enjoy surviving the Graveyard Mash! 👻
