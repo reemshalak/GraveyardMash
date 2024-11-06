@@ -44,7 +44,7 @@ Play it here: [Graveyard Mash Active Game Link](https://lnkd.in/e-8q7ewA)
 ## 🚀 Getting Started
 
 **Requirements:**
-- **Device Compatibility**: Mobile device with AR browser support.
+- **Device Compatibility**: Mobile device or PC with AR browser support.
 - **Internet Connection**: Required for loading WebAR assets.
 
 *Simply visit the game link, and it will automatically start in your AR-supported browser.*
