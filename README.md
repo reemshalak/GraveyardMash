@@ -2,7 +2,11 @@
 
 **A Spooky WebAR Runner Game**
 
-![Graveyard Mash Banner]()  
+![Graveyard Mash Banner](bg.png)
+![Collect](collect.png)  
+![Runner](skullrunning.png)  
+![Lose](lose.png)
+
 *Run through a haunted graveyard, collect candy, and dodge creepy obstacles in this thrilling Halloween-themed game!*
 
 
