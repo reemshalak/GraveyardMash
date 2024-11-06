@@ -1,6 +1,6 @@
 # 👻 Graveyard Mash! 🎃
 
-**A Spooky WebAR Runner Game Built with 8th Wall**
+**A Spooky WebAR Runner Game**
 
 ![Graveyard Mash Banner]()  
 *Run through a haunted graveyard, collect candy, and dodge creepy obstacles in this thrilling Halloween-themed game!*
