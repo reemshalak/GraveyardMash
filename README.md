@@ -3,7 +3,7 @@
 **A Spooky WebAR Runner Game**
 
 ![Graveyard Mash Banner](Assets/bg.png)
-![Collect](Assets.collect.png)  
+![Collect](Assets/collect.png)  
 ![Runner](Assets/skullrunning.png)  
 ![Lose](Assets/lose.png)
 
